@@ -28,4 +28,4 @@ board[i][j] = 0
 return False
 N_queens(N)
 for i in board:
-print (i
+print (i)
